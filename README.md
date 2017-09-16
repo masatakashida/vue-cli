@@ -2,6 +2,24 @@
 
 > sample
 
+
+## Install
+
+``` bash
+# install vue
+npm install vue
+
+# install vue-cli
+npm install -g vue-cli
+
+# new project
+vue init webpack my-project
+
+# cd my-project
+
+next!
+```
+
 ## Build Setup
 
 ``` bash
